@@ -5,13 +5,11 @@ Started" guide here: https://fresh.deno.dev/docs/getting-started
 
 ### Usage
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
-
 Then start the project:
 
 ```
 pnpm i
-deno task dev
+pnpm run dev
 ```
 
 This will watch the project directory and restart as necessary.
